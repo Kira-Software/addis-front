@@ -4,7 +4,7 @@ import styled from "styled-components";
 const NavBar = styled.nav`
   width: 100%;
   height: 100px;
-  background-color: #4589b5;
+  background-color: white;
   font-size: 25px;
   //position: absolute;
   // top: 0px;
